@@ -15,15 +15,15 @@ Vitesse dark only
 
 <div align="center">
 
-#### colortest
+#### [colortest](https://github.com/pablopunk/colortest)
 
 ![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/HX1fE22PFlos.png)
 
-#### lazygit
+#### [lazygit](https://github.com/jesseduffield/lazygit)
 
 ![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/dBpwkzcy9UgN.png)
 
-#### exa(list files)
+#### [Exa](https://the.exa.website/)(list files)
 
 ![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/xwkmANtgT2Xp.png)
 
@@ -31,7 +31,7 @@ Vitesse dark only
 
 ![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/sSPB8jUlzMD1.png)
 
-#### peco
+#### [peco](https://github.com/peco/peco)
 
 ![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/03oTv5ucVweU.png)
 
