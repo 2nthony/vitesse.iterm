@@ -23,7 +23,7 @@ Vitesse dark only
 
 ![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/dBpwkzcy9UgN.png)
 
-#### [Exa](https://the.exa.website/)(list files)
+#### [exa](https://the.exa.website/)(list files)
 
 ![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/xwkmANtgT2Xp.png)
 
